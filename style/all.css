@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/*--------------- 共用reset ---------------*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-style: Arial, Helvetica, "微軟黑正體", sans-serif;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+
+/*--------------- common tools ---------------*/
